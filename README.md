@@ -7,7 +7,7 @@
 
   - **Resources:**
 
-      -**lending_data:** Necessary CSV file
+      - **lending_data:** Necessary CSV file
 
 
 ## Results
