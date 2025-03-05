@@ -6,6 +6,7 @@
   - **credit_risk_classification:** File with code for the Logistic Regression Model.
 
   - **Resources:**
+
       -**lending_data:** Necessary CSV file
 
 
