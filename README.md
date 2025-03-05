@@ -17,6 +17,7 @@
 Using bulleted lists, describe the accuracy scores and the precision and recall scores of all machine learning models.
 
 **Accuracy:**
+
     - 0.99 meaning 99% of the predicitons were accurate.
     - This model is very accurate in making overall predictions.
 
