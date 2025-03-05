@@ -17,24 +17,24 @@
 Using bulleted lists, describe the accuracy scores and the precision and recall scores of all machine learning models.
 
 **Accuracy:**
-    * 0.99 meaning 99% of the predicitons were accurate.
-    * This model is very accurate in making overall predictions.
+    - 0.99 meaning 99% of the predicitons were accurate.
+    - This model is very accurate in making overall predictions.
 
 **Precision (Healthy Loan - 0):**
-    * 1.00 meaning 100% of predicted healthy loans were actually healthy.
-    * The model is perfect for identifying healthy loans with no false positives.
+    - 1.00 meaning 100% of predicted healthy loans were actually healthy.
+    - The model is perfect for identifying healthy loans with no false positives.
  
 **Precision (High-Risk Loan - 1):**
-    * 0.84 meaning 84% of predicted high-risk loans were actually high-risk.
-    * Some false positives are present, but the model still preforms reasonably well at identifying high-risk loans.
+    - 0.84 meaning 84% of predicted high-risk loans were actually high-risk.
+    - Some false positives are present, but the model still preforms reasonably well at identifying high-risk loans.
  
 **Recall (Healthy Loan - 0):**
-    * 0.99 meaning 99% of actually healthy loans were predicted correctly.
-    * The model misses very few healthy loans.
+    - 0.99 meaning 99% of actually healthy loans were predicted correctly.
+    - The model misses very few healthy loans.
 
 **Recall (High-Risk Loan - 1):**
-    * 0.94 meaning 94% of actual high-risk loans were correctly predicted.
-    * The model identifies most high-risk loans but misses some.
+    - 0.94 meaning 94% of actual high-risk loans were correctly predicted.
+    - The model identifies most high-risk loans but misses some.
 
 ## Summary
 
